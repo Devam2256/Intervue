@@ -1,4 +1,4 @@
-# Intervue.io - A Job Management Platform
+# Intervue - A Job Management Platform
 
 ## Project Overview
 Intervue.io is a comprehensive job management platform that connects job seekers with employers. The platform allows companies to post job listings and manage applications, while job seekers can browse jobs, apply, and track their application status.
